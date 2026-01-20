@@ -1,87 +1,168 @@
-# Hi there, I'm Beatrice Kibor! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00AA00&center=true&vCenter=true&width=600&lines=Full-Stack+UI+Designer;Web+Developer;React+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Beatrice%20Kibor&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20UI%20Designer%20%7C%20React%20Specialist&descAlignY=55&descAlign=50" />
 </div>
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00AA00&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences+%F0%9F%9A%80;React+%7C+JavaScript+%7C+Python+Expert;UI%2FUX+Designer+%26+Developer;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
 
-I'm a passionate **Full-Stack UI Designer & Web Developer** who loves creating innovative solutions through code. My journey in software development is driven by the belief that **code is poetry written in logic, and every line tells a story of innovation and possibility**.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-- 🔭 I'm currently working on modern React applications
-- 🌱 I'm constantly learning new technologies and best practices
-- 💡 I specialize in creating user-friendly interfaces with smooth animations
-- 🎨 I have a keen eye for design and user experience
-- 📫 How to reach me: **kibor9346@gmail.com**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-## 🛠️ Tech Stack
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
+const beatrice = {
+    pronouns: "She/Her",
+    location: "Kenya 🇰🇪",
+    role: "Full-Stack Developer",
+    passion: "Creating innovative digital solutions",
+    currentFocus: "React & Modern Web Technologies",
+    philosophy: "Code is poetry written in logic",
+    
+    dailyRoutine: {
+        code: "Building amazing user experiences",
+        learn: "Exploring new technologies",
+        design: "Crafting beautiful interfaces",
+        coffee: "Fuel for creativity ☕"
+    },
+    
+    goals2026: [
+        "Master advanced React patterns",
+        "Contribute to open source projects",
+        "Build impactful web applications",
+        "Mentor aspiring developers"
+    ]
+};
+```
+
+### 🌟 What I Do
+- 💻 **Frontend Development**: Creating responsive, interactive web applications
+- 🎨 **UI/UX Design**: Designing user-centered digital experiences
+- 🔧 **Problem Solving**: Turning complex challenges into elegant solutions
+- 📚 **Continuous Learning**: Staying updated with latest tech trends
+
+<br clear="both"/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack & Tools
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+### 🖥️ Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,tailwind,bootstrap,figma" />
+</p>
 
-### Backend & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔧 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,mysql,postgresql,firebase" />
+</p>
+
+### 🛠️ Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,webpack,vite,docker,linux" />
+</p>
+
+### ☁️ Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,githubactions" />
+</p>
 
 </div>
 
-## 🌟 Featured Project
+## 🎆 Featured Projects
 
 <div align="center">
-  <a href="https://b-kibor.github.io/My_Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00AA00?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
-  </a>
-</div>
 
 ### 💼 My Portfolio Website
-A modern, responsive portfolio built with **React** and **Framer Motion**, featuring:
-- ✨ Smooth animations and parallax effects
-- 🎨 Clean green/black/white aesthetic design
-- 📱 Fully responsive across all devices
-- 🖼️ Interactive project showcases with modal popups
-- 🚀 Deployed on GitHub Pages
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Demo-00AA00?style=for-the-badge&logo=vercel&logoColor=white)](https://b-kibor.github.io/My_Portfolio)
+[![Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/B-Kibor/My_Portfolio)
 
-**Tech Used:** React, Framer Motion, CSS3, GitHub Pages
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=B-Kibor&repo=My_Portfolio&theme=dark&bg_color=0d1117&title_color=00AA00&text_color=ffffff&border_color=00AA00" />
 
-## 📊 GitHub Stats
+**Tech Stack:** React • Framer Motion • CSS3 • GitHub Pages
+
+✨ **Features:**
+- Smooth animations and parallax effects
+- Interactive project showcases with modal popups
+- Fully responsive design across all devices
+- Clean green/black/white aesthetic
+- Optimized performance and SEO
+
+</div>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B-Kibor&show_icons=true&theme=dark&bg_color=0d1117&title_color=00AA00&icon_color=00AA00&text_color=ffffff&border_color=00AA00" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=B-Kibor&show_icons=true&theme=dark&bg_color=0d1117&title_color=00AA00&icon_color=00AA00&text_color=ffffff&border_color=00AA00&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Kibor&layout=compact&theme=dark&bg_color=0d1117&title_color=00AA00&text_color=ffffff&border_color=00AA00&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=B-Kibor&bg_color=0d1117&color=00AA00&line=00AA00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=B-Kibor&bg_color=0d1117&color=00AA00&line=00AA00&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Kibor&layout=compact&theme=dark&bg_color=0d1117&title_color=00AA00&text_color=ffffff&border_color=00AA00" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=B-Kibor&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
-## 🤝 Let's Connect!
+## 🌍 Connect With Me
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betty-kibor-4483b5317/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/B-Kibor)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00AA00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://b-kibor.github.io/My_Portfolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kibor9346@gmail.com)
 
+<a href="https://www.linkedin.com/in/betty-kibor-4483b5317/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/B-Kibor" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://b-kibor.github.io/My_Portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00AA00?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="mailto:kibor9346@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Building Modern React Applications with Framer Motion
+- 🎨 The Art of UI/UX Design in Web Development
+- 💻 Best Practices for Clean Code in JavaScript
+- 🌱 My Journey from Beginner to Full-Stack Developer
+<!-- BLOG-POST-LIST:END -->
+
+## 📅 Current Goals
+
+- 🏆 **2026 Objectives**
+  - [ ] Contribute to 5 open source projects
+  - [ ] Build 3 major full-stack applications
+  - [ ] Learn TypeScript and Next.js
+  - [ ] Mentor 10+ junior developers
+  - [ ] Speak at a tech conference
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic%2C%20and%20every%20line%20tells%20a%20story%20of%20innovation%20and%20possibility.&author=Beatrice%20Kibor" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=B-Kibor&color=00AA00&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 </div>
 
 <div align="center">
-  <i>⭐️ From [B-Kibor](https://github.com/B-Kibor)</i>
-</div># B-Kibor
+  <img src="https://komarev.com/ghpvc/?username=B-Kibor&color=00AA00&style=flat-square&label=Profile+Views" />
+  <br/>
+  <i>⭐️ From [Beatrice Kibor](https://github.com/B-Kibor) with ❤️</i>
+  <br/>
+  <i>"Turning ideas into reality, one line of code at a time"</i>
+</div>
