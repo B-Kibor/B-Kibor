@@ -84,4 +84,4 @@ A modern, responsive portfolio built with **React** and **Framer Motion**, featu
 
 <div align="center">
   <i>⭐️ From [B-Kibor](https://github.com/B-Kibor)</i>
-</div>
+</div># B-Kibor
