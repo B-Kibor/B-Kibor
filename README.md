@@ -58,7 +58,7 @@ A modern, responsive portfolio built with **React** and **Framer Motion**, featu
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Kibor&theme=dark&background=0d1117&ring=00AA00&fire=00AA00&currStreakLabel=00AA00&border=00AA00" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=B-Kibor&theme=dark&background=0d1117&ring=00AA00&fire=00AA00&currStreakLabel=00AA00&border=00AA00" alt="GitHub Streak" />
 </div>
 
 <div align="center">
