@@ -96,17 +96,37 @@ const beatrice = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=B-Kibor&show_icons=true&theme=buefy&bg_color=ffffff&title_color=FF69B4&icon_color=FF1493&text_color=8B008B&border_color=FF69B4&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Kibor&layout=compact&theme=buefy&bg_color=ffffff&title_color=FF69B4&text_color=8B008B&border_color=FF69B4&langs_count=8" />
+  <h3>📈 Contribution Overview</h3>
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=B-Kibor&bg_color=ffffff&color=FF69B4&line=FF1493&point=8B008B&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=B-Kibor&show_icons=true&theme=buefy&bg_color=ffffff&title_color=FF69B4&icon_color=FF1493&text_color=8B008B&border_color=FF69B4&count_private=true&include_all_commits=true&hide_rank=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Kibor&layout=compact&theme=buefy&bg_color=ffffff&title_color=FF69B4&text_color=8B008B&border_color=FF69B4&langs_count=10&hide=html,css" />
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=B-Kibor&theme=buefy&background=ffffff&ring=FF69B4&fire=FF1493&currStreakLabel=8B008B&border=FF69B4" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=B-Kibor&theme=buefy&bg_color=ffffff&title_color=FF69B4&text_color=8B008B&border_color=FF69B4" />
+  <h3>🔥 Activity & Streaks</h3>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=B-Kibor&theme=buefy&background=ffffff&ring=FF69B4&fire=FF1493&currStreakLabel=8B008B&border=FF69B4&stroke=FF69B4" />
+</div>
+
+<div align="center">
+  <h3>📅 Contribution Activity</h3>
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=B-Kibor&bg_color=ffffff&color=FF69B4&line=FF1493&point=8B008B&area=true&hide_border=false&border_color=FF69B4&custom_title=Daily%20Contribution%20Activity" />
+</div>
+
+<div align="center">
+  <h3>⚡ Detailed Stats</h3>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B-Kibor&theme=buefy" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=B-Kibor&theme=buefy&utc_offset=3" />
 </div>
 
 ## 🌍 Connect With Me
