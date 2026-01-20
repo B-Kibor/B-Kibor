@@ -96,18 +96,17 @@ const beatrice = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=B-Kibor&show_icons=true&theme=buefy&bg_color=ffffff&title_color=FF69B4&icon_color=FF1493&text_color=8B008B&border_color=FF69B4&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Kibor&layout=compact&theme=buefy&bg_color=ffffff&title_color=FF69B4&text_color=8B008B&border_color=FF69B4&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=B-Kibor&show_icons=true&theme=buefy&bg_color=ffffff&title_color=FF69B4&icon_color=FF1493&text_color=8B008B&border_color=FF69B4&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Kibor&layout=compact&theme=buefy&bg_color=ffffff&title_color=FF69B4&text_color=8B008B&border_color=FF69B4&langs_count=8" />
 </div>
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=B-Kibor&bg_color=ffffff&color=FF69B4&line=FF1493&point=8B008B&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=B-Kibor&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=B-Kibor&theme=buefy&background=ffffff&ring=FF69B4&fire=FF1493&currStreakLabel=8B008B&border=FF69B4" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=B-Kibor&theme=buefy&bg_color=ffffff&title_color=FF69B4&text_color=8B008B&border_color=FF69B4" />
 </div>
 
 ## 🌍 Connect With Me
@@ -145,12 +144,6 @@ const beatrice = {
   - [ ] Learn TypeScript and Next.js 📚
   - [ ] Mentor 10+ junior developers 👩💻
   - [ ] Speak at a tech conference 🎤
-
-## 💬 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=buefy&quote=Code%20is%20poetry%20written%20in%20logic%2C%20and%20every%20line%20tells%20a%20story%20of%20innovation%20and%20possibility.&author=Beatrice%20Kibor" />
-</div>
 
 ---
 
