@@ -1,71 +1,131 @@
-# Hi there, I'm Beatrice Kibor! 👋
+# ✨ Hey Beautiful Souls! I'm Beatrice Kibor 💖
 
 <div align="center">
-  <img src="https://via.placeholder.com/150x150/00AA00/FFFFFF?text=BK" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=18" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://via.placeholder.com/180x180/FF69B4/FFFFFF?text=✨BK✨" alt="Profile Picture" width="180" height="180" style="border-radius: 50%; border: 4px solid #FF69B4; box-shadow: 0 0 20px rgba(255,105,180,0.5);" />
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00AA00&center=true&vCenter=true&width=600&lines=Full-Stack+UI+Designer;Web+Developer;React+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=✨+Full-Stack+UI+Designer+%26+Developer;💖+React+Enthusiast+%26+Creative+Coder;🌸+Turning+Dreams+into+Digital+Reality;🦄+Building+Beautiful+User+Experiences" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-I'm a passionate **Full-Stack UI Designer & Web Developer** who loves creating innovative solutions through code. My journey in software development is driven by the belief that **code is poetry written in logic, and every line tells a story of innovation and possibility**.
+## 🌸 About Me - The Girl Behind the Code
 
-- 🔭 I'm currently working on modern React applications
-- 🌱 I'm constantly learning new technologies and best practices
-- 💡 I specialize in creating user-friendly interfaces with smooth animations
-- 🎨 I have a keen eye for design and user experience
-- 📫 How to reach me: **kibor9346@gmail.com**
+<img align="right" alt="Coding Girl" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🛠️ Tech Stack
+Hey there, lovely! 💕 I'm a passionate **Full-Stack UI Designer & Web Developer** who believes that technology should be as beautiful as it is functional. My coding journey is fueled by the magic of turning creative visions into interactive digital experiences.
+
+🌙 **My Philosophy:** *"Code is like poetry written in logic, and every line tells a story of innovation, creativity, and endless possibilities."*
+
+✨ **What Makes Me Sparkle:**
+- 💖 Currently crafting stunning React applications with love
+- 🌱 Always learning and growing in the tech garden
+- 🎨 Specializing in user-friendly interfaces with smooth, dreamy animations
+- 💄 Passionate about creating inclusive and accessible designs
+- 💫 Turning complex problems into elegant solutions
+- 📧 Let's connect: **kibor9346@gmail.com**
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+</div>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+## 💖 My Tech Arsenal - Tools of Magic
 
-### Backend & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
+
+### ✨ Frontend Enchantments
+<div align="center">
+
+![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white&labelColor=FF1493)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FF69B4)
+![HTML5](https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF1493)
+![CSS3](https://img.shields.io/badge/CSS3-DDA0DD?style=for-the-badge&logo=css3&logoColor=white&labelColor=9370DB)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-F0E68C?style=for-the-badge&logo=framer&logoColor=black&labelColor=FFD700)
 
 </div>
 
-## 🌟 Featured Project
+### 🌙 Backend & Magical Tools
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-E6E6FA?style=for-the-badge&logo=python&logoColor=black&labelColor=9370DB)
+![Git](https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white&labelColor=FF69B4)
+![GitHub](https://img.shields.io/badge/GitHub-DDA0DD?style=for-the-badge&logo=github&logoColor=white&labelColor=9370DB)
+![VS Code](https://img.shields.io/badge/VS%20Code-F0E68C?style=for-the-badge&logo=visual-studio-code&logoColor=black&labelColor=FFD700)
+
+</div>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+## 🎆 Featured Project - My Digital Masterpiece
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+  <br><br>
   <a href="https://b-kibor.github.io/My_Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00AA00?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/🌸_Live_Portfolio-FF69B4?style=for-the-badge&logoColor=white&labelColor=FF1493" alt="Live Portfolio" />
   </a>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5f9a5.gif" width="400">
 </div>
 
-### 💼 My Portfolio Website
-A modern, responsive portfolio built with **React** and **Framer Motion**, featuring:
-- ✨ Smooth animations and parallax effects
-- 🎨 Clean green/black/white aesthetic design
-- 📱 Fully responsive across all devices
-- 🖼️ Interactive project showcases with modal popups
-- 🚀 Deployed on GitHub Pages
+### 💖 My Portfolio Website - Where Dreams Come Alive
+A stunning, responsive portfolio crafted with **React** and **Framer Motion**, designed to captivate and inspire:
 
-**Tech Used:** React, Framer Motion, CSS3, GitHub Pages
+✨ **Magical Features:**
+- 🌙 Smooth animations and enchanting parallax effects
+- 🌸 Elegant pink/purple aesthetic with modern design
+- 📱 Perfectly responsive across all devices
+- 🖼️ Interactive project showcases with dreamy modal popups
+- 🚀 Lightning-fast deployment on GitHub Pages
+- 💄 Accessibility-first design approach
 
-## 🤝 Let's Connect!
+**💫 Tech Magic Used:** React, Framer Motion, CSS3, GitHub Pages
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+</div>
+
+## 💕 Let's Connect & Create Magic Together!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-3f8ac0f0f2c1.gif" width="200">
+</div>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betty-kibor-4483b5317/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/B-Kibor)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00AA00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://b-kibor.github.io/My_Portfolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kibor9346@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF1493)](https://www.linkedin.com/in/betty-kibor-4483b5317/)
+[![GitHub](https://img.shields.io/badge/GitHub-DDA0DD?style=for-the-badge&logo=github&logoColor=white&labelColor=9370DB)](https://github.com/B-Kibor)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=FF69B4)](https://b-kibor.github.io/My_Portfolio)
+[![Email](https://img.shields.io/badge/Email-F0E68C?style=for-the-badge&logo=gmail&logoColor=black&labelColor=FFD700)](mailto:kibor9346@gmail.com)
 
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284077-2d6c925a-a84b-4abf-b0c4-4ddfcd1b0909.gif" width="300">
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From [B-Kibor](https://github.com/B-Kibor)</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14&height=100&section=footer&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <i>✨ Crafted with 💖 by [Beatrice Kibor](https://github.com/B-Kibor) ✨</i>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284081-648784da-7d35-4943-8592-6bc8d406c1c7.gif" width="100">
 </div>
