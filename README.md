@@ -5,8 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="https://via.placeholder.com/180x180/FF69B4/FFFFFF?text=✨BK✨" alt="Profile Picture" width="180" height="180" style="border-radius: 50%; border: 4px solid #FF69B4; box-shadow: 0 0 20px rgba(255,105,180,0.5);" />
-  <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=✨+Full-Stack+UI+Designer+%26+Developer;💖+React+Enthusiast+%26+Creative+Coder;🌸+Turning+Dreams+into+Digital+Reality;🦄+Building+Beautiful+User+Experiences" alt="Typing SVG" />
 </div>
 
