@@ -14,7 +14,7 @@
 
 ## 🌸 About Me - The Girl Behind the Code
 
-<img align="right" alt="Coding Girl" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding Girl" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 Hey there, lovely! 💕 I'm a passionate **Full-Stack UI Designer & Web Developer** who believes that technology should be as beautiful as it is functional. My coding journey is fueled by the magic of turning creative visions into interactive digital experiences.
 
@@ -27,10 +27,6 @@ Hey there, lovely! 💕 I'm a passionate **Full-Stack UI Designer & Web Develope
 - 💄 Passionate about creating inclusive and accessible designs
 - 💫 Turning complex problems into elegant solutions
 - 📧 Let's connect: **kibor9346@gmail.com**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
-</div>
 
 ## 💖 My Tech Arsenal - Tools of Magic
 
