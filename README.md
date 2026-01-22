@@ -14,7 +14,7 @@
 
 ## 🌸 About Me - The Girl Behind the Code
 
-<img align="right" alt="Coding Girl" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding Girl" width="350" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 Hey there, lovely! 💕 I'm a passionate **Full-Stack UI Designer & Web Developer** who believes that technology should be as beautiful as it is functional. My coding journey is fueled by the magic of turning creative visions into interactive digital experiences.
 
